@@ -2,6 +2,7 @@
   "name": "how_i_would_say_this_in_french_bot",
   "version": "1.0.0",
   "main": "bot.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
